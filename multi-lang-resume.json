@@ -1,0 +1,239 @@
+{
+  "en": {
+    "basics": {
+      "name": "Ayoub Baraoui",
+      "firstName": "Ayoub",
+      "lastName": "Baraoui",
+      "label": "Polyglot Backend Engineer | Software Consultant | SaaS Founder",
+      "username": "eyub/eeyuub",
+      "image": "https://eyub.space/profile.jpg",
+      "email": "Ayoub.Baraoui.02@gmail.com",
+      "phone": "+212 762 54 56 38",
+      "url": "https://eyub.space",
+      "summary": "As a Polyglot Engineer and SaaS founder, I architect robust, scalable backend systems that power modern applications. I combine deep technical expertise across the Java, Node.js, and PHP ecosystems with a product-first mindset to deliver solutions that are not only well-coded but also market-ready and built for growth.",
+      "dateOfBirth": "2002-01-24",
+      "location": {
+        "city": "Agadir",
+        "countryCode": "MA",
+        "region": "Souss-Massa"
+      },
+      "profiles": [
+        { "network": "LinkedIn", "username": "ayoub-baraoui-0b6a91285", "url": "https://www.linkedin.com/in/ayoub-baraoui-0b6a91285/" },
+        { "network": "GitHub", "username": "eeyuub", "url": "https://github.com/eeyuub" },
+        { "network": "Instagram", "username": "eeyuup", "url": "https://www.instagram.com/eeyuup/" }
+      ]
+    },
+    "professionalTitles": [
+      "Polyglot Backend Engineer", "Software Consultant", "SaaS Founder", "Senior Backend Engineer", "Full-Stack Developer",
+      "Software Engineering Consultant", "Freelance Developer", "SaaS Architect", "Technical Lead", "IoT Backend Specialist"
+    ],
+    "services": {
+      "title": "What I Can Do",
+      "items": [
+        "Full-Stack Web Development", "SaaS Product Development", "Technical & Strategy Consulting", "API Design & Integration",
+        "Digital Marketing & SEO Strategy", "E-commerce & Booking Solutions", "Branding & UI/UX Design", "Database Architecture"
+      ]
+    },
+    "keyArguments": {
+      "title": "My Value Proposition",
+      "items": [
+        { "title": "The Founder's Mindset", "description": "You get more than a developer; you get a partner who understands the entire product lifecycle, from initial strategy to launch and scaling." },
+        { "title": "True Polyglot Expertise", "description": "I deliver the right solution, not just the one I know best. With deep expertise across 3 major backend ecosystems (Java, Node.js, and PHP), I architect solutions perfectly tailored to your project's unique performance and scalability requirements." },
+        { "title": "Proven in High-Stakes Environments", "description": "My solutions are built to perform under pressure. I have a proven track record engineering systems for demanding environments, from scaling EdTech platforms to serve 10 million+ annual visitors to processing over 1 million daily data points from thousands of IoT devices." },
+        { "title": "A Full-Spectrum Technical Partner", "description": "From initial strategy to full-stack implementation, I provide the end-to-end partnership required to turn a vision into a product. With over 10 successful client projects delivered, I have the experience to navigate technical challenges and ensure your goals are met." }
+      ]
+    },
+    "work": [
+      { "company": "Education Media Company", "position": "Backend Developer", "website": "https://educationmedia.ma/", "logo": "https://educationmedia.ma/img/logo.svg", "startDate": "2024-12-16", "endDate": "Present", "summary": "Engineering and maintaining backend services for a high-traffic EdTech platform.", "highlights": [ "Engineered services for an EdTech platform with over 10 million annual unique visitors.", "Optimized REST APIs, reducing average latency by 40% and ensuring 99.9% uptime under heavy load.", "Contributed to an AI-based lead scoring system that improved lead qualification accuracy by over 15%." ] },
+      { "company": "Agri4.0", "position": "Backend Developer", "website": "https://www.agri40.ma/", "logo": "https://www.agri40.ma/logo2.svg", "startDate": "2024-05-01", "endDate": "2024-10-31", "summary": "Engineered backend microservices for a precision agriculture IoT platform.", "highlights": [ "Architected a real-time data ingestion pipeline using MQTT, successfully processing over 1 million data points daily from thousands of IoT devices.", "Engineered backend microservices using Quarkus (Java), boosting data processing efficiency by 30%.", "Optimized TimescaleDB queries, which decreased data retrieval times for analytics by 60%." ] },
+      { "company": "Easyeno Media", "position": "Backend Developer", "website": "https://easyeno-media.com/", "logo": "https://placehold.co/80x80?text=Easyeno+Media", "startDate": "2023-10-01", "endDate": "2023-12-31", "summary": "Developed full-stack web applications for a digital marketing agency.", "highlights": [ "Led backend development on 5+ client projects, achieving a 100% on-time delivery rate.", "Improved average client website load times by 25% by implementing performance best practices." ] },
+      { "company": "Agence Iker", "position": "Backend Developer", "website": "https://www.iker.ma/", "logo": "https://www.iker.ma/wp-content/uploads/2016/09/agencewebmaroc.png", "startDate": "2023-04-01", "endDate": "2023-07-31", "summary": "Contributed to the development of diverse backend applications.", "highlights": [ "Developed custom PHP and Laravel solutions for 3 major clients, enhancing their digital capabilities.", "Implemented new features that led to a 20% average increase in user engagement on client websites." ] }
+    ],
+    "education": [
+      { "institution": "Faculté des Sciences de Tétouan", "area": "ARSSI - Network Administration and Information Systems Security", "studyType": "Bachelor's Degree", "startDate": "2022-10-01", "endDate": "2023-07-01" },
+      { "institution": "Lycée Technique Ibn Al Haytam", "area": "Information Systems Development", "studyType": "Associate's Degree (TS - Bac+2)", "startDate": "2020-10-01", "endDate": "2022-07-01" }
+    ],
+    "skills": [
+      { "name": "Backend Development", "keywords": [ "PHP (Symfony, Laravel)", "Node.js (NestJS, AdonisJs, ExpressJs)", "Java (Quarkus, Spring Boot)", "Python", "JavaScript", "TypeScript", "C" ] },
+      { "name": "Frontend Development", "keywords": [ "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap", "React" ] },
+      { "name": "Databases & Protocols", "keywords": [ "PostgreSQL", "MySQL", "TimescaleDB", "MongoDB", "Redis", "REST APIs", "MQTT" ] },
+      { "name": "DevOps & Version Control", "keywords": [ "Docker", "Git", "GitHub", "GitLab" ] },
+      { "name": "Software Design & Modeling", "keywords": [ "UML", "Merise", "ERD (Entity-Relationship Diagram)" ] },
+      { "name": "Testing", "keywords": [ "Cypress" ] },
+      { "name": "Design Tools", "keywords": [ "Figma", "Photoshop" ] }
+    ],
+    "languages": [
+      { "language": "Arabic", "fluency": "Native Speaker" },
+      { "language": "English", "fluency": "Professional Working Proficiency" },
+      { "language": "French", "fluency": "Limited Working Proficiency" }
+    ],
+    "projects": [
+      { "name": "Hub-Menu", "description": "(Founder @ Wiicode Apps) A full-featured SaaS platform for restaurants to create and manage digital menus. The platform features QR code generation, online ordering integration, and customer analytics to enhance customer experience and streamline operations.", "keywords": ["NestJS", "TypeScript", "PostgreSQL", "Docker", "Stripe API"], "url": "https://hub-menu.com/", "logo": "https://placehold.co/80x80?text=Hub-Menu", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fhubmenu-fullscreen-min.png", "highlights": [ "Successfully designed, built, and launched the entire SaaS platform from concept to production.", "Onboarded over 50 restaurants in the first three months, processing more than 10,000 orders.", "Integrated Stripe API for a secure, automated subscription and billing system." ] },
+      { "name": "Salty Wave - Surf Camp Platform", "description": "Developed the backend and booking system for a premier surf and yoga camp in Morocco. The platform features accommodation management, package booking, and activity scheduling to provide a seamless digital experience for tourists and surf enthusiasts.", "keywords": ["PHP", "Laravel", "MySQL", "JavaScript", "Booking System"], "url": "https://salty-wave.com/en", "logo": "https://placehold.co/80x80?text=Salty+Wave", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fsaltywaves-fullscreen-min.png", "highlights": [ "Streamlined the booking process, reducing the time to book by 60%.", "Developed a custom management dashboard that decreased administrative work for staff by 3 hours per week." ] },
+      { "name": "Studio Fitness", "description": "Developed a static marketing and presentation website for Studio Fitness to showcase their brand, services, and facilities.", "keywords": ["HTML", "CSS", "JavaScript", "Static Site"], "url": "https://studiofitness.wiicode-apps.com/", "logo": "https://studiofitness.wiicode-apps.com/img/brand/logotype-dark.png", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fstudiofitness-fullscreen-min.png", "highlights": [ "Built a fully responsive design for optimal viewing on all devices, from mobile to desktop.", "Focused on performance optimization to ensure fast load times and a smooth user experience." ] },
+      { "name": "KET Bearing", "description": "Developed a comprehensive web platform for a leading manufacturer of precision ball and roller bearings. The site showcases their product catalog and highlights their advanced engineering and global logistics capabilities.", "keywords": ["React", "NestJS", "PostgreSQL", "SEO", "B2B"], "url": "https://ketbearings.com/", "logo": "https://placehold.co/80x80?text=KET+Bearing", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fketbearing-fullscreen-min.png", "highlights": [ "Developed the full-stack platform, leading to a 25% increase in qualified B2B sales leads in the first quarter post-launch.", "Implemented a performant product catalog search, reducing user search time by 50%." ] },
+      { "name": "WiiQR", "description": "(Founder @ Wiicode Apps) A dynamic QR code generation platform allowing users to create, customize, and manage QR codes for various data types (URLs, vCards, WiFi). Engineered for lifetime validity and a user-friendly customization interface.", "keywords": ["NestJS", "TypeScript", "MongoDB", "Docker"], "url": "https://wiiqr.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=WiiQR", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiiqr-fullscreen-min.png", "highlights": [ "Engineered a highly available system with 99.9% uptime, successfully generating over 100,000 unique QR codes.", "Developed a custom analytics dashboard for users to track QR code scan data." ] },
+      { "name": "Wiicode Digital", "description": "Founder and developer of a digital agency focused on building modern, high-performance web solutions for businesses, from custom websites to full-stack applications.", "keywords": ["Web Development", "SaaS", "Full-Stack"], "url": "https://wiicode.digital/", "logo": "https://placehold.co/80x80?text=Wiicode+Digital", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiicode-ditial-fullscreen-min.png", "highlights": [ "Successfully delivered 10+ web and application development projects for clients across various industries.", "Maintained a 95% client satisfaction and retention rate." ] },
+      { "name": "WiiShort", "description": "(Founder @ Wiicode Apps) A robust URL shortening service with link tracking and analytics capabilities. The platform enables users to create branded, shortened links and monitor engagement by tracking click-through rates and other key metrics.", "keywords": ["NestJS", "TypeScript", "Redis", "Docker"], "url": "https://wiishort.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=WiiShort", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiishort-fullscreen-min.png", "highlights": [ "Built a high-performance shortening engine with Redis, achieving sub-50ms response times.", "Tracked and analyzed over 500,000 clicks for users through the analytics dashboard." ] },
+      { "name": "Jad Vision", "description": "Developed a professional website for Jad Vision, an optician in Agadir, showcasing their range of glasses, contact lenses, and eye exam services.", "keywords": ["HTML", "CSS", "JavaScript", "SEO"], "url": "https://jadvision.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=Jad+Vision", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fjadvision-fullscreen-min.png", "highlights": [ "Improved SEO, leading to a 40% increase in organic search traffic within two months.", "Achieved a Google PageSpeed score of 95+, enhancing the user experience." ] }
+    ]
+  },
+  "fr": {
+    "basics": {
+      "name": "Ayoub Baraoui",
+      "firstName": "Ayoub",
+      "lastName": "Baraoui",
+      "label": "Ingénieur Backend Polyglotte | Consultant en Logiciels | Fondateur de SaaS",
+      "username": "eyub/eeyuub",
+      "image": "https://eyub.space/profile.jpg",
+      "email": "Ayoub.Baraoui.02@gmail.com",
+      "phone": "+212 762 54 56 38",
+      "url": "https://eyub.space",
+      "summary": "En tant qu'ingénieur polyglotte et fondateur de SaaS, je conçois des systèmes backend robustes et évolutifs qui alimentent les applications modernes. Je combine une expertise technique approfondie des écosystèmes Java, Node.js et PHP avec une mentalité axée sur le produit pour fournir des solutions non seulement bien codées, mais aussi prêtes pour le marché et conçues pour la croissance.",
+      "dateOfBirth": "2002-01-24",
+      "location": {
+        "city": "Agadir",
+        "countryCode": "MA",
+        "region": "Souss-Massa"
+      },
+      "profiles": [
+        { "network": "LinkedIn", "username": "ayoub-baraoui-0b6a91285", "url": "https://www.linkedin.com/in/ayoub-baraoui-0b6a91285/" },
+        { "network": "GitHub", "username": "eeyuub", "url": "https://github.com/eeyuub" },
+        { "network": "Instagram", "username": "eeyuup", "url": "https://www.instagram.com/eeyuup/" }
+      ]
+    },
+    "professionalTitles": [
+      "Ingénieur Backend Polyglotte", "Consultant en Logiciels", "Fondateur de SaaS", "Ingénieur Backend Senior", "Développeur Full-Stack",
+      "Consultant en Ingénierie Logicielle", "Développeur Freelance", "Architecte SaaS", "Lead Technique", "Spécialiste Backend IoT"
+    ],
+    "services": {
+      "title": "Ce que je peux faire",
+      "items": [
+        "Développement Web Full-Stack", "Développement de Produits SaaS", "Conseil Technique et Stratégique", "Conception et Intégration d'API",
+        "Stratégie de Marketing Numérique et SEO", "Solutions E-commerce et de Réservation", "Branding et Design UI/UX", "Architecture de Bases de Données"
+      ]
+    },
+    "keyArguments": {
+      "title": "Ma Proposition de Valeur",
+      "items": [
+        { "title": "La Mentalité de Fondateur", "description": "Vous obtenez plus qu'un développeur ; vous obtenez un partenaire qui comprend l'ensemble du cycle de vie du produit, de la stratégie initiale au lancement et à la mise à l'échelle." },
+        { "title": "Véritable Expertise Polyglotte", "description": "Je fournis la bonne solution, pas seulement celle que je connais le mieux. Avec une expertise approfondie dans 3 écosystèmes backend majeurs (Java, Node.js et PHP), je conçois des solutions parfaitement adaptées aux exigences uniques de performance et d'évolutivité de votre projet." },
+        { "title": "Prouvé dans des Environnements à Hauts Enjeux", "description": "Mes solutions sont conçues pour performer sous pression. J'ai une expérience avérée dans l'ingénierie de systèmes pour des environnements exigeants, de la mise à l'échelle de plateformes EdTech pour servir plus de 10 millions de visiteurs annuels au traitement de plus d'un million de points de données quotidiens provenant de milliers d'appareils IoT." },
+        { "title": "Un Partenaire Technique à Spectre Complet", "description": "De la stratégie initiale à la mise en œuvre full-stack, je fournis le partenariat de bout en bout nécessaire pour transformer une vision en produit. Avec plus de 10 projets clients livrés avec succès, j'ai l'expérience pour naviguer les défis techniques et assurer que vos objectifs sont atteints." }
+      ]
+    },
+    "work": [
+      { "company": "Education Media Company", "position": "Développeur Backend", "website": "https://educationmedia.ma/", "logo": "https://educationmedia.ma/img/logo.svg", "startDate": "2024-12-16", "endDate": "Actuel", "summary": "Ingénierie et maintenance de services backend pour une plateforme EdTech à fort trafic.", "highlights": [ "Services d'ingénierie pour une plateforme EdTech avec plus de 10 millions de visiteurs uniques annuels.", "Optimisation des API REST, réduisant la latence moyenne de 40% et assurant une disponibilité de 99,9% sous forte charge.", "Contribution à un système de notation de leads basé sur l'IA qui a amélioré la précision de la qualification des leads de plus de 15%." ] },
+      { "company": "Agri4.0", "position": "Développeur Backend", "website": "https://www.agri40.ma/", "logo": "https://www.agri40.ma/logo2.svg", "startDate": "2024-05-01", "endDate": "2024-10-31", "summary": "Ingénierie de microservices backend pour une plateforme IoT d'agriculture de précision.", "highlights": [ "Architecture d'un pipeline d'ingestion de données en temps réel utilisant MQTT, traitant avec succès plus d'un million de points de données quotidiens de milliers d'appareils IoT.", "Ingénierie de microservices backend avec Quarkus (Java), augmentant l'efficacité du traitement des données de 30%.", "Optimisation des requêtes TimescaleDB, ce qui a réduit les temps de récupération des données pour l'analyse de 60%." ] },
+      { "company": "Easyeno Media", "position": "Développeur Backend", "website": "https://easyeno-media.com/", "logo": "https://placehold.co/80x80?text=Easyeno+Media", "startDate": "2023-10-01", "endDate": "2023-12-31", "summary": "Développement d'applications web full-stack pour une agence de marketing numérique.", "highlights": [ "Direction du développement backend sur plus de 5 projets clients, atteignant un taux de livraison à temps de 100%.", "Amélioration des temps de chargement moyens des sites web clients de 25% en mettant en œuvre les meilleures pratiques de performance." ] },
+      { "company": "Agence Iker", "position": "Développeur Backend", "website": "https://www.iker.ma/", "logo": "https://www.iker.ma/wp-content/uploads/2016/09/agencewebmaroc.png", "startDate": "2023-04-01", "endDate": "2023-07-31", "summary": "Contribution au développement de diverses applications backend.", "highlights": [ "Développement de solutions personnalisées en PHP et Laravel pour 3 grands clients, améliorant leurs capacités numériques.", "Mise en œuvre de nouvelles fonctionnalités qui ont conduit à une augmentation moyenne de 20% de l'engagement des utilisateurs sur les sites web clients." ] }
+    ],
+    "education": [
+      { "institution": "Faculté des Sciences de Tétouan", "area": "ARSSI - Administration Réseau et Sécurité des Systèmes d'Information", "studyType": "Licence", "startDate": "2022-10-01", "endDate": "2023-07-01" },
+      { "institution": "Lycée Technique Ibn Al Haytam", "area": "Développement des Systèmes d'Information", "studyType": "TS (Technicien Spécialisé) - Bac+2", "startDate": "2020-10-01", "endDate": "2022-07-01" }
+    ],
+    "skills": [
+      { "name": "Développement Backend", "keywords": [ "PHP (Symfony, Laravel)", "Node.js (NestJS, AdonisJs, ExpressJs)", "Java (Quarkus, Spring Boot)", "Python", "JavaScript", "TypeScript", "C" ] },
+      { "name": "Développement Frontend", "keywords": [ "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap", "React" ] },
+      { "name": "Bases de Données & Protocoles", "keywords": [ "PostgreSQL", "MySQL", "TimescaleDB", "MongoDB", "Redis", "APIs REST", "MQTT" ] },
+      { "name": "DevOps & Contrôle de Version", "keywords": [ "Docker", "Git", "GitHub", "GitLab" ] },
+      { "name": "Conception & Modélisation Logicielle", "keywords": [ "UML", "Merise", "ERD (Diagramme Entité-Relation)" ] },
+      { "name": "Tests", "keywords": [ "Cypress" ] },
+      { "name": "Outils de Conception", "keywords": [ "Figma", "Photoshop" ] }
+    ],
+    "languages": [
+      { "language": "Arabe", "fluency": "Langue Maternelle" },
+      { "language": "Anglais", "fluency": "Compétence Professionnelle" },
+      { "language": "Français", "fluency": "Compétence Professionnelle Limitée" }
+    ],
+    "projects": [
+      { "name": "Hub-Menu", "description": "(Fondateur @ Wiicode Apps) Une plateforme SaaS complète pour les restaurants pour créer et gérer des menus numériques. La plateforme propose la génération de codes QR, l'intégration de commandes en ligne et des analyses clients pour améliorer l'expérience client et optimiser les opérations.", "keywords": ["NestJS", "TypeScript", "PostgreSQL", "Docker", "Stripe API"], "url": "https://hub-menu.com/", "logo": "https://placehold.co/80x80?text=Hub-Menu", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fhubmenu-fullscreen-min.png", "highlights": [ "Conception, construction et lancement réussis de toute la plateforme SaaS du concept à la production.", "Intégration de plus de 50 restaurants au cours des trois premiers mois, traitant plus de 10 000 commandes.", "Intégration de l'API Stripe pour un système de facturation et d'abonnement sécurisé et automatisé." ] },
+      { "name": "Salty Wave - Plateforme de Surf Camp", "description": "Développement du backend et du système de réservation pour un camp de surf et de yoga de premier plan au Maroc. La plateforme propose la gestion de l'hébergement, la réservation de forfaits et la planification d'activités pour offrir une expérience numérique transparente aux touristes et aux passionnés de surf.", "keywords": ["PHP", "Laravel", "MySQL", "JavaScript", "Système de Réservation"], "url": "https://salty-wave.com/en", "logo": "https://placehold.co/80x80?text=Salty+Wave", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fsaltywaves-fullscreen-min.png", "highlights": [ "Rationalisation du processus de réservation, réduisant le temps de réservation de 60%.", "Développement d'un tableau de bord de gestion personnalisé qui a réduit le travail administratif du personnel de 3 heures par semaine." ] },
+      { "name": "Studio Fitness", "description": "Développement d'un site web de marketing et de présentation statique pour Studio Fitness afin de présenter leur marque, leurs services et leurs installations.", "keywords": ["HTML", "CSS", "JavaScript", "Site Statique"], "url": "https://studiofitness.wiicode-apps.com/", "logo": "https://studiofitness.wiicode-apps.com/img/brand/logotype-dark.png", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fstudiofitness-fullscreen-min.png", "highlights": [ "Création d'un design entièrement réactif pour un affichage optimal sur tous les appareils, du mobile au bureau.", "Concentration sur l'optimisation des performances pour assurer des temps de chargement rapides et une expérience utilisateur fluide." ] },
+      { "name": "KET Bearing", "description": "Développement d'une plateforme web complète pour un fabricant leader de roulements à billes et à rouleaux de précision. Le site présente leur catalogue de produits et met en avant leur ingénierie avancée et leurs capacités logistiques mondiales.", "keywords": ["React", "NestJS", "PostgreSQL", "SEO", "B2B"], "url": "https://ketbearings.com/", "logo": "https://placehold.co/80x80?text=KET+Bearing", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fketbearing-fullscreen-min.png", "highlights": [ "Développement de la plateforme full-stack, entraînant une augmentation de 25% des leads de vente B2B qualifiés au premier trimestre après le lancement.", "Mise en œuvre d'une recherche de catalogue de produits performante, réduisant le temps de recherche des utilisateurs de 50%." ] },
+      { "name": "WiiQR", "description": "(Fondateur @ Wiicode Apps) Une plateforme de génération de codes QR dynamiques permettant aux utilisateurs de créer, personnaliser et gérer des codes QR pour divers types de données (URL, vCards, WiFi). Conçue pour une validité à vie et une interface de personnalisation conviviale.", "keywords": ["NestJS", "TypeScript", "MongoDB", "Docker"], "url": "https://wiiqr.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=WiiQR", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiiqr-fullscreen-min.png", "highlights": [ "Ingénierie d'un système à haute disponibilité avec 99,9% de temps de fonctionnement, générant avec succès plus de 100 000 codes QR uniques.", "Développement d'un tableau de bord d'analyse personnalisé pour que les utilisateurs puissent suivre les données de scan des codes QR." ] },
+      { "name": "Wiicode Digital", "description": "Fondateur et développeur d'une agence numérique axée sur la création de solutions web modernes et performantes pour les entreprises, des sites web personnalisés aux applications full-stack.", "keywords": ["Développement Web", "SaaS", "Full-Stack"], "url": "https://wiicode.digital/", "logo": "https://placehold.co/80x80?text=Wiicode+Digital", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiicode-ditial-fullscreen-min.png", "highlights": [ "Livraison réussie de plus de 10 projets de développement web et d'applications pour des clients de divers secteurs.", "Maintien d'un taux de satisfaction et de rétention des clients de 95%." ] },
+      { "name": "WiiShort", "description": "(Fondateur @ Wiicode Apps) Un service de raccourcissement d'URL robuste avec des capacités de suivi de liens et d'analyse. La plateforme permet aux utilisateurs de créer des liens raccourcis de marque et de surveiller l'engagement en suivant les taux de clics et d'autres mesures clés.", "keywords": ["NestJS", "TypeScript", "Redis", "Docker"], "url": "https://wiishort.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=WiiShort", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiishort-fullscreen-min.png", "highlights": [ "Création d'un moteur de raccourcissement haute performance avec Redis, atteignant des temps de réponse inférieurs à 50 ms.", "Suivi et analyse de plus de 500 000 clics pour les utilisateurs via le tableau de bord d'analyse." ] },
+      { "name": "Jad Vision", "description": "Développement d'un site web professionnel pour Jad Vision, un opticien à Agadir, présentant sa gamme de lunettes, lentilles de contact et services d'examen de la vue.", "keywords": ["HTML", "CSS", "JavaScript", "SEO"], "url": "https://jadvision.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=Jad+Vision", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fjadvision-fullscreen-min.png", "highlights": [ "Amélioration du SEO, entraînant une augmentation de 40% du trafic de recherche organique en deux mois.", "Obtention d'un score Google PageSpeed de 95+, améliorant l'expérience utilisateur." ] }
+    ]
+  },
+  "ar": {
+    "basics": {
+      "name": "أيوب برعاوي",
+      "firstName": "أيوب",
+      "lastName": "برعاوي",
+      "label": "مهندس خلفيات متعدد اللغات | مستشار برمجيات | مؤسس برامج كخدمة",
+      "username": "eyub/eeyuub",
+      "image": "https://eyub.space/profile.jpg",
+      "email": "Ayoub.Baraoui.02@gmail.com",
+      "phone": "+212 762 54 56 38",
+      "url": "https://eyub.space",
+      "summary": "بصفتي مهندسًا متعدد اللغات ومؤسسًا لبرامج كخدمة (SaaS)، أقوم بتصميم أنظمة خلفية قوية وقابلة للتطوير تشغل التطبيقات الحديثة. أجمع بين الخبرة التقنية العميقة في أنظمة Java و Node.js و PHP مع عقلية تركز على المنتج لتقديم حلول ليست فقط جيدة الترميز، ولكنها أيضًا جاهزة للسوق ومصممة للنمو.",
+      "dateOfBirth": "2002-01-24",
+      "location": {
+        "city": "أكادير",
+        "countryCode": "MA",
+        "region": "سوس ماسة"
+      },
+      "profiles": [
+        { "network": "LinkedIn", "username": "ayoub-baraoui-0b6a91285", "url": "https://www.linkedin.com/in/ayoub-baraoui-0b6a91285/" },
+        { "network": "GitHub", "username": "eeyuub", "url": "https://github.com/eeyuub" },
+        { "network": "Instagram", "username": "eeyuup", "url": "https://www.instagram.com/eeyuup/" }
+      ]
+    },
+    "professionalTitles": [
+      "مهندس خلفيات متعدد اللغات", "مستشار برمجيات", "مؤسس برامج كخدمة", "مهندس خلفيات أول", "مطور متكامل",
+      "مستشار هندسة برمجيات", "مطور مستقل", "مهندس معماري لبرامج كخدمة", "قائد تقني", "متخصص خلفيات إنترنت الأشياء"
+    ],
+    "services": {
+      "title": "ما يمكنني تقديمه",
+      "items": [
+        "تطوير ويب متكامل", "تطوير منتجات SaaS", "استشارات تقنية واستراتيجية", "تصميم وتكامل واجهات برمجة التطبيقات",
+        "استراتيجية التسويق الرقمي وتحسين محركات البحث", "حلول التجارة الإلكترونية والحجوزات", "العلامة التجارية وتصميم واجهة المستخدم/تجربة المستخدم", "هندسة قواعد البيانات"
+      ]
+    },
+    "keyArguments": {
+      "title": "قيمتي المقترحة",
+      "items": [
+        { "title": "عقلية المؤسس", "description": "تحصل على أكثر من مجرد مطور؛ تحصل على شريك يفهم دورة حياة المنتج بأكملها، من الاستراتيجية الأولية إلى الإطلاق والتوسع." },
+        { "title": "خبرة حقيقية متعددة اللغات", "description": "أقدم الحل المناسب، وليس فقط الحل الذي أعرفه. بفضل خبرتي العميقة في 3 أنظمة خلفية رئيسية (Java و Node.js و PHP)، أصمم حلولًا مصممة خصيصًا لتلبية متطلبات الأداء والتوسع الفريدة لمشروعك." },
+        { "title": "مثبت في بيئات عالية المخاطر", "description": "حلولي مصممة للأداء تحت الضغط. لدي سجل حافل في هندسة الأنظمة للبيئات الصعبة، من توسيع منصات تكنولوجيا التعليم لخدمة أكثر من 10 ملايين زائر سنويًا إلى معالجة أكثر من مليون نقطة بيانات يوميًا من آلاف أجهزة إنترنت الأشياء." },
+        { "title": "شريك تقني متكامل", "description": "من الاستراتيجية الأولية إلى التنفيذ المتكامل، أقدم شراكة شاملة مطلوبة لتحويل رؤية إلى منتج. مع أكثر من 10 مشاريع عملاء تم تسليمها بنجاح، لدي الخبرة للتغلب على التحديات التقنية وضمان تحقيق أهدافك." }
+      ]
+    },
+    "work": [
+      { "company": "Education Media Company", "position": "مطور خلفيات", "website": "https://educationmedia.ma/", "logo": "https://educationmedia.ma/img/logo.svg", "startDate": "2024-12-16", "endDate": "الحالي", "summary": "هندسة وصيانة خدمات الخلفية لمنصة تكنولوجيا التعليم ذات حركة مرور عالية.", "highlights": [ "هندسة خدمات لمنصة تكنولوجيا التعليم مع أكثر من 10 ملايين زائر فريد سنويًا.", "تحسين واجهات برمجة التطبيقات REST، مما قلل من متوسط ​​زمن الاستجابة بنسبة 40٪ وضمان وقت تشغيل بنسبة 99.9٪ تحت الحمل الثقيل.", "المساهمة في نظام تسجيل نقاط العملاء المحتملين القائم على الذكاء الاصطناعي والذي أدى إلى تحسين دقة تأهيل العملاء المحتملين بأكثر من 15٪." ] },
+      { "company": "Agri4.0", "position": "مطور خلفيات", "website": "https://www.agri40.ma/", "logo": "https://www.agri40.ma/logo2.svg", "startDate": "2024-05-01", "endDate": "2024-10-31", "summary": "هندسة خدمات خلفية دقيقة لمنصة إنترنت الأشياء للزراعة الدقيقة.", "highlights": [ "تصميم خط أنابيب لاستيعاب البيانات في الوقت الفعلي باستخدام MQTT، ومعالجة أكثر من مليون نقطة بيانات يوميًا بنجاح من آلاف أجهزة إنترنت الأشياء.", "هندسة خدمات خلفية دقيقة باستخدام Quarkus (Java)، مما أدى إلى زيادة كفاءة معالجة البيانات بنسبة 30٪.", "تحسين استعلامات TimescaleDB، مما قلل من أوقات استرداد البيانات للتحليلات بنسبة 60٪." ] },
+      { "company": "Easyeno Media", "position": "مطور خلفيات", "website": "https://easyeno-media.com/", "logo": "https://placehold.co/80x80?text=Easyeno+Media", "startDate": "2023-10-01", "endDate": "2023-12-31", "summary": "تطوير تطبيقات ويب متكاملة لوكالة تسويق رقمي.", "highlights": [ "قيادة تطوير الخلفية لأكثر من 5 مشاريع عملاء، وتحقيق معدل تسليم في الوقت المحدد بنسبة 100٪.", "تحسين متوسط ​​أوقات تحميل مواقع العملاء بنسبة 25٪ من خلال تطبيق أفضل ممارسات الأداء." ] },
+      { "company": "Agence Iker", "position": "مطور خلفيات", "website": "https://www.iker.ma/", "logo": "https://www.iker.ma/wp-content/uploads/2016/09/agencewebmaroc.png", "startDate": "2023-04-01", "endDate": "2023-07-31", "summary": "المساهمة في تطوير تطبيقات خلفية متنوعة.", "highlights": [ "تطوير حلول مخصصة باستخدام PHP و Laravel لـ 3 عملاء رئيسيين، مما عزز قدراتهم الرقمية.", "تنفيذ ميزات جديدة أدت إلى زيادة متوسطة بنسبة 20٪ في تفاعل المستخدمين على مواقع العملاء." ] }
+    ],
+    "education": [
+      { "institution": "كلية العلوم بتطوان", "area": "ARSSI - إدارة الشبكات وأمن نظم المعلومات", "studyType": "إجازة", "startDate": "2022-10-01", "endDate": "2023-07-01" },
+      { "institution": "الثانوية التقنية ابن الهيثم", "area": "تطوير نظم المعلومات", "studyType": "تقني متخصص - بكالوريا+2", "startDate": "2020-10-01", "endDate": "2022-07-01" }
+    ],
+    "skills": [
+      { "name": "تطوير الخلفيات", "keywords": [ "PHP (Symfony, Laravel)", "Node.js (NestJS, AdonisJs, ExpressJs)", "Java (Quarkus, Spring Boot)", "Python", "JavaScript", "TypeScript", "C" ] },
+      { "name": "تطوير الواجهات الأمامية", "keywords": [ "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap", "React" ] },
+      { "name": "قواعد البيانات والبروتوكولات", "keywords": [ "PostgreSQL", "MySQL", "TimescaleDB", "MongoDB", "Redis", "APIs REST", "MQTT" ] },
+      { "name": "DevOps والتحكم في الإصدارات", "keywords": [ "Docker", "Git", "GitHub", "GitLab" ] },
+      { "name": "تصميم ونمذجة البرمجيات", "keywords": [ "UML", "Merise", "ERD (مخطط علاقات الكيانات)" ] },
+      { "name": "الاختبار", "keywords": [ "Cypress" ] },
+      { "name": "أدوات التصميم", "keywords": [ "Figma", "Photoshop" ] }
+    ],
+    "languages": [
+      { "language": "العربية", "fluency": "لغة أم" },
+      { "language": "الإنجليزية", "fluency": "كفاءة مهنية" },
+      { "language": "الفرنسية", "fluency": "كفاءة مهنية محدودة" }
+    ],
+    "projects": [
+      { "name": "Hub-Menu", "description": "(مؤسس @ Wiicode Apps) منصة SaaS كاملة الميزات للمطاعم لإنشاء وإدارة القوائم الرقمية. تتميز المنصة بإنشاء رموز QR وتكامل الطلبات عبر الإنترنت وتحليلات العملاء لتحسين تجربة العملاء وتبسيط العمليات.", "keywords": ["NestJS", "TypeScript", "PostgreSQL", "Docker", "Stripe API"], "url": "https://hub-menu.com/", "logo": "https://placehold.co/80x80?text=Hub-Menu", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fhubmenu-fullscreen-min.png", "highlights": [ "تصميم وبناء وإطلاق المنصة بأكملها بنجاح من المفهوم إلى الإنتاج.", "انضمام أكثر من 50 مطعمًا في الأشهر الثلاثة الأولى، ومعالجة أكثر من 10000 طلب.", "تكامل Stripe API لنظام فوترة واشتراك آمن وتلقائي." ] },
+      { "name": "Salty Wave - منصة مخيم ركوب الأمواج", "description": "تطوير نظام الخلفية والحجز لمخيم ركوب الأمواج واليوغا الرائد في المغرب. تتميز المنصة بإدارة الإقامة وحجز الباقات وجدولة الأنشطة لتوفير تجربة رقمية سلسة للسياح وعشاق ركوب الأمواج.", "keywords": ["PHP", "Laravel", "MySQL", "JavaScript", "نظام حجز"], "url": "https://salty-wave.com/en", "logo": "https://placehold.co/80x80?text=Salty+Wave", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fsaltywaves-fullscreen-min.png", "highlights": [ "تبسيط عملية الحجز، مما قلل من وقت الحجز بنسبة 60٪.", "تطوير لوحة تحكم إدارية مخصصة قللت من العمل الإداري للموظفين بمقدار 3 ساعات أسبوعيًا." ] },
+      { "name": "Studio Fitness", "description": "تطوير موقع ويب تسويقي وعرضي ثابت لـ Studio Fitness لعرض علامتهم التجارية وخدماتهم ومرافقهم.", "keywords": ["HTML", "CSS", "JavaScript", "موقع ثابت"], "url": "https://studiofitness.wiicode-apps.com/", "logo": "https://studiofitness.wiicode-apps.com/img/brand/logotype-dark.png", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fstudiofitness-fullscreen-min.png", "highlights": [ "بناء تصميم متجاوب بالكامل لعرض مثالي على جميع الأجهزة، من الهاتف المحمول إلى سطح المكتب.", "التركيز على تحسين الأداء لضمان أوقات تحميل سريعة وتجربة مستخدم سلسة." ] },
+      { "name": "KET Bearing", "description": "تطوير منصة ويب شاملة لشركة رائدة في تصنيع محامل الكرات والأسطوانات الدقيقة. يعرض الموقع كتالوج منتجاتهم ويسلط الضوء على هندستهم المتقدمة وقدراتهم اللوجستية العالمية.", "keywords": ["React", "NestJS", "PostgreSQL", "SEO", "B2B"], "url": "https://ketbearings.com/", "logo": "https://placehold.co/80x80?text=KET+Bearing", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fketbearing-fullscreen-min.png", "highlights": [ "تطوير المنصة المتكاملة، مما أدى إلى زيادة بنسبة 25٪ في العملاء المحتملين المؤهلين للمبيعات بين الشركات في الربع الأول بعد الإطلاق.", "تنفيذ بحث كتالوج منتجات عالي الأداء، مما قلل من وقت بحث المستخدم بنسبة 50٪." ] },
+      { "name": "WiiQR", "description": "(مؤسس @ Wiicode Apps) منصة ديناميكية لتوليد رموز QR تتيح للمستخدمين إنشاء وتخصيص وإدارة رموز QR لأنواع مختلفة من البيانات (عناوين URL، بطاقات vCards، واي فاي). مصممة بصلاحية مدى الحياة وواجهة تخصيص سهلة الاستخدام.", "keywords": ["NestJS", "TypeScript", "MongoDB", "Docker"], "url": "https://wiiqr.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=WiiQR", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiiqr-fullscreen-min.png", "highlights": [ "هندسة نظام عالي التوفر بوقت تشغيل 99.9٪، وتوليد أكثر من 100000 رمز QR فريد بنجاح.", "تطوير لوحة تحكم تحليلية مخصصة للمستخدمين لتتبع بيانات مسح رمز QR." ] },
+      { "name": "Wiicode Digital", "description": "مؤسس ومطور وكالة رقمية تركز على بناء حلول ويب حديثة وعالية الأداء للشركات، من مواقع الويب المخصصة إلى التطبيقات المتكاملة.", "keywords": ["تطوير ويب", "SaaS", "Full-Stack"], "url": "https://wiicode.digital/", "logo": "https://placehold.co/80x80?text=Wiicode+Digital", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiicode-ditial-fullscreen-min.png", "highlights": [ "تسليم أكثر من 10 مشاريع تطوير ويب وتطبيقات بنجاح لعملاء في مختلف الصناعات.", "الحفاظ على معدل رضا العملاء والاحتفاظ بهم بنسبة 95٪." ] },
+      { "name": "WiiShort", "description": "(مؤسس @ Wiicode Apps) خدمة تقصير عناوين URL قوية مع إمكانات تتبع الروابط والتحليلات. تتيح المنصة للمستخدمين إنشاء روابط مختصرة ذات علامة تجارية ومراقبة التفاعل من خلال تتبع معدلات النقر ومقاييس رئيسية أخرى.", "keywords": ["NestJS", "TypeScript", "Redis", "Docker"], "url": "https://wiishort.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=WiiShort", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fwiishort-fullscreen-min.png", "highlights": [ "بناء محرك تقصير عالي الأداء باستخدام Redis، وتحقيق أوقات استجابة أقل من 50 مللي ثانية.", "تتبع وتحليل أكثر من 500000 نقرة للمستخدمين من خلال لوحة التحكم التحليلية." ] },
+      { "name": "Jad Vision", "description": "تطوير موقع ويب احترافي لـ Jad Vision، وهو أخصائي بصريات في أكادير، يعرض مجموعة من النظارات والعدسات اللاصقة وخدمات فحص النظر.", "keywords": ["HTML", "CSS", "JavaScript", "SEO"], "url": "https://jadvision.wiicode-apps.com/", "logo": "https://placehold.co/80x80?text=Jad+Vision", "thumbnail": "https://minio-ikwco4g404c04k0kckcwgw00.wiicode-apps.com/eyub.space/public%2Fjadvision-fullscreen-min.png", "highlights": [ "تحسين محركات البحث، مما أدى إلى زيادة بنسبة 40٪ في حركة البحث العضوي في غضون شهرين.", "تحقيق درجة 95+ في Google PageSpeed، مما أدى إلى تحسين تجربة المستخدم." ] }
+    ]
+  }
+}
